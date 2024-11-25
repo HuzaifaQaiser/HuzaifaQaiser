@@ -16,7 +16,7 @@
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 - ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
-- ![APIs](https://img.shields.io/badge/-API's-FF4F00?logo=api&logoColor=white)
+- ![API's](https://img.shields.io/badge/-API's-FF4F00?logo=api&logoColor=white)
 - ![Chart.js](https://img.shields.io/badge/-Chart.js-F24E1E?logo=chart.js&logoColor=white)
 - ![Leaflet](https://img.shields.io/badge/-Leaflet-3F8600?logo=leaflet&logoColor=white)
 - ![Email.js](https://img.shields.io/badge/-Email.js-2B44F5?logo=email-dot-js&logoColor=white)
@@ -36,6 +36,7 @@
 - ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+
 ---
 
 ### 📊 My GitHub Stats:
