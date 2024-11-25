@@ -28,10 +28,10 @@
 
 ### 📊 GitHub Stats:
 - **Contribution Graph:**  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HuzaifaQaiser&theme=react-dark)
 
 - **Trophies:**  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HuzaifaQaiser&theme=radical)
 
 - **Dynamic Quotes:**  
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -39,17 +39,17 @@
 ---
 
 ### 🔥 Streaks:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HuzaifaQaiser&theme=radical)
 
 ---
 
 ### 🌐 Visitor Count:
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=HuzaifaQaiser&color=blue)
 
 ---
 
 ### ⏱️ Wakatime Stats:
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=HuzaifaQaiser)
 
 ---
 
