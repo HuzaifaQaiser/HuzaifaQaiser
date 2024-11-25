@@ -8,6 +8,66 @@
 - ✨ Passionate about crafting seamless web apps & automation tools  
 - 🛠️ Skilled in **React.js**, **Node.js**, **MongoDB**, and modern UI libraries
 
+
+<p align="left"> 
+  <a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
+  </a> 
+  <a href="https://react-query.tanstack.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://react-query.tanstack.com/logo.svg" alt="React-Query" width="40" height="40"/> 
+  </a> 
+  <a href="https://chartjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/chartjs/chartjs-icon.svg" alt="Chart.js" width="40" height="40"/> 
+  </a> 
+  <a href="https://leafletjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-icon.svg" alt="Leaflet" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.emailjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/emailjs/emailjs-icon.svg" alt="Email.Js" width="40" height="40"/> 
+  </a> 
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/> 
+  </a> 
+  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chakra/chakra-icon.svg" alt="Chakra UI" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git & Github" width="40" height="40"/> 
+  </a> 
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
+  </a> 
+  <a href="https://analytics.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="40" height="40"/> 
+  </a> 
+  <a href="https://airtable.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" alt="Airtable" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  </a> 
+  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="OOP" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.geeksforgeeks.org/data-structures/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/geeksforgeeks/geeksforgeeks-icon.svg" alt="DSA" width="40" height="40"/> 
+  </a> 
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+  </a> 
+</p>
+
+
+
 ### 💻 Languages & Tools:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
