@@ -7,7 +7,9 @@
 - 🎓 Computer Science graduate from **Lahore Garrison University**  
 - ✨ Passionate about crafting seamless web apps & automation tools  
 - 🛠️ Skilled in **React.js**, **Node.js**, **MongoDB**, and modern UI libraries
-- 
+
+### 🌐 Visitor Count:
+![Visitor Count](https://komarev.com/ghpvc/?username=HuzaifaQaiser&color=blue)
 
 ### 💻 Languages & Tools:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -78,11 +80,6 @@
 
 ### 🔥 Streaks:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HuzaifaQaiser&theme=radical)
-
----
-
-### 🌐 Visitor Count:
-![Visitor Count](https://komarev.com/ghpvc/?username=HuzaifaQaiser&color=blue)
 
 ---
 
