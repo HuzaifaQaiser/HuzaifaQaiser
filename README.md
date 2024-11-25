@@ -47,12 +47,6 @@
 
 ---
 
-### ⏱️ Wakatime Stats:
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Huzaifa)
-
----
-
-
 ### 🌱 Currently Exploring:
 - 🚀 **MERN Stack** for building scalable and efficient web applications  
 - 🔗 Advanced **API integrations**  
