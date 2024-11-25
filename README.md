@@ -24,42 +24,36 @@
 <p align="left"> 
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-  </a> 
+  </a>  | 
   <a href="https://www.w3schools.com/react/default.asp" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282599.png?f=webp&w=256" alt="React" width="40" height="40"/> 
-  </a> 
+  </a>  | 
   <a href="https://leafletjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-icon.svg" alt="Leaflet" width="40" height="40"/> 
-  </a> 
+  </a>  | 
 
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/> 
-  </a> 
+  </a>  | 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/> 
-  </a> 
+  </a>  | 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git & Github" width="40" height="40"/> 
-  </a> 
+  </a>  | 
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
-  </a> 
+  </a>  | 
   <a href="https://analytics.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="40" height="40"/> 
-  </a> 
+  </a> |  
   <a href="https://airtable.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" alt="Airtable" width="40" height="40"/> 
-  </a> 
+  </a> | 
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   </a> 
- 
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  </a> 
+
 </p>
 
 ---
