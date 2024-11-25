@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Huzaifa Qaiser
+<h1 align="center">Hi there! 👋 I'm Huzaifa Qaiser</h1>
 
-## 🚀 MERN Stack Developer | 💻 React.js Enthusiast | 🌟 Tech Innovator
+<h2 align="center">🚀 MERN Stack Developer | 💻 React.js Enthusiast | 🌟 Tech Innovator</h2>
 
 ### 🌟 About Me
 - 🌍 Based in Lahore, Pakistan  
