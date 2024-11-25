@@ -1,16 +1,26 @@
-## Hi there 👋
+ Hi there! 👋 I'm Huzaifa Qaiser
 
-<!--
-**HuzaifaQaiser/HuzaifaQaiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer | 💻 React.js Enthusiast | 🌟 Tech Innovator
 
-Here are some ideas to get you started:
+🌟 About Me
+  🌍 Based in Lahore, Pakistan  
+  🎓 Computer Science graduate from "Lahore Garrison University"
+  ✨ Passionate about crafting seamless web apps & automation tools  
+  🛠️ Skilled in React.js, Node.js, MongoDB, and modern UI libraries  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 My Work
+  🔧 Building scalable and responsive web applications  
+  📊 Developing tools like Social Media Management platforms with analytics  
+  🌟 Open to freelance projects and collaborations  
+
+🌱 Currently Exploring:
+  🚀 MERN Stack for building scalable and efficient web applications
+  🔗 Advanced API integrations
+  🎨 Responsive UI/UX with modern libraries like MUI and TailwindCSS
+  🌐 Advanced frontend frameworks and API integrations  
+  
+📫 Connect with Me
+  💼 https://linkedin.com/in/huzaifa-qaiser  
+  📧 Email: huzaifaqaiser797@gmail.com
+
+_"Turning ideas into reality, one line of code at a time."_💡
