@@ -7,35 +7,34 @@
 - 🎓 Computer Science graduate from **Lahore Garrison University**  
 - ✨ Passionate about crafting seamless web apps & automation tools  
 - 🛠️ Skilled in **React.js**, **Node.js**, **MongoDB**, and modern UI libraries
+- 
 
-
+### 💻 Languages & Tools:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 <p align="left"> 
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
   </a> 
-  <a href="https://react-query.tanstack.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://creativebits.org/wp-content/uploads/2023/07/8mx2wdq04h271.png" alt="React-Query" width="40" height="40"/> 
-  </a> 
-  <a href="https://chartjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/chartjs/chartjs-icon.svg" alt="Chart.js" width="40" height="40"/> 
+  <a href="https://www.w3schools.com/react/default.asp" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-react-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-4-pack-icons-282599.png?f=webp&w=256" alt="React" width="40" height="40"/> 
   </a> 
   <a href="https://leafletjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-icon.svg" alt="Leaflet" width="40" height="40"/> 
   </a> 
-  <a href="https://www.emailjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/emailjs/emailjs-icon.svg" alt="Email.Js" width="40" height="40"/> 
-  </a> 
+
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/> 
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chakra/chakra-icon.svg" alt="Chakra UI" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git & Github" width="40" height="40"/> 
@@ -52,12 +51,7 @@
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   </a> 
-  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="OOP" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.geeksforgeeks.org/data-structures/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/geeksforgeeks/geeksforgeeks-icon.svg" alt="DSA" width="40" height="40"/> 
-  </a> 
+ 
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> 
   </a> 
@@ -65,21 +59,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
   </a> 
 </p>
-
-
-
-### 💻 Languages & Tools:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
