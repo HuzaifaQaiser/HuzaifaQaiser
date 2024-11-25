@@ -14,7 +14,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
   </a> 
   <a href="https://react-query.tanstack.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://react-query.tanstack.com/logo.svg" alt="React-Query" width="40" height="40"/> 
+    <img src="https://creativebits.org/wp-content/uploads/2023/07/8mx2wdq04h271.png" alt="React-Query" width="40" height="40"/> 
   </a> 
   <a href="https://chartjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/chartjs/chartjs-icon.svg" alt="Chart.js" width="40" height="40"/> 
