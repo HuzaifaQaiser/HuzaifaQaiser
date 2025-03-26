@@ -68,16 +68,6 @@
 
 </p>
 
----
-
-### 📊 GitHub Stats:
-- **Contribution Graph:**  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HuzaifaQaiser&theme=react-dark)
-
-- **Trophies:**  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HuzaifaQaiser&theme=radical)
-  
----
   
 ### 📊 My GitHub Stats:
 ![Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HuzaifaQaiser&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&show_icons=true&theme=tokyonight)
