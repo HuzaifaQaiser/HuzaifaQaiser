@@ -11,6 +11,17 @@
 ### 🌐 Visitor Count:
 ![Visitor Count](https://komarev.com/ghpvc/?username=HuzaifaQaiser&color=blue)
 
+---
+
+### 📊 GitHub Stats:
+- **Contribution Graph:**  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HuzaifaQaiser&theme=react-dark)
+
+- **Trophies:**  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HuzaifaQaiser&theme=radical)
+  
+---
+
 ### 💻 Languages & Tools:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
